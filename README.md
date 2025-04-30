@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Chin!
 
-<!--
-**s-a-c-h-in/s-a-c-h-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A young and passionate learner on a journey to become a future cybersecurity expert.  
+💻 Currently learning Python, ethical hacking tools, and real-world security concepts step by step.  
+🔐 Interested in network scanning, vulnerability assessment, and defensive security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Projects
+- 🔍 **Basic Vulnerability Scanner** – CLI tool to scan open ports, detect insecure services, and analyze HTTPS issues  
+- 🧪 Web Security Labs – Projects using XAMPP and Kali Linux for testing XSS and login flaws  
+- 📋 Resume Builder – Creating a resume as a cybersecurity student
+
+---
+
+## 📈 Goals
+- Get hands-on experience with security tools  
+- Learn how real attackers think to build better defenses  
+- Prepare for certifications like CPENT in the future  
+- Grow this GitHub with more Python + security projects!
+
