@@ -6,7 +6,7 @@ Interested in network scanning, vulnerability assessment, and defensive security
 
 ---
 
-## 🛠My Projects
+## My Projects
 - **Basic Vulnerability Scanner** – CLI tool to scan open ports, detect insecure services, and analyze HTTPS issues  
 - Web Security Labs – Projects using XAMPP and Kali Linux for testing XSS and login flaws  
 
