@@ -8,7 +8,8 @@ Interested in network scanning, vulnerability assessment, and defensive security
 
 ## My Projects
 - **Basic Vulnerability Scanner** – CLI tool to scan open ports, detect insecure services, and analyze HTTPS issues  
-- Web Security Labs – Projects using XAMPP and Kali Linux for testing XSS and login flaws  
+- Web Security Labs – Projects using XAMPP and Kali Linux for testing XSS and login flaws
+- Password Hash Generators – A Python tool that generates password hashes using multiple cryptographic algorithms. 
 
 ---
 
