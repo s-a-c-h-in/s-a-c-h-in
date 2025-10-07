@@ -1,6 +1,5 @@
 # Hi, I'm Sachin E!
 
-A young and passionate learner on a journey to become a future cybersecurity expert.  
 Currently learning Python, ethical hacking tools, and real-world security concepts step by step.  
 Interested in network scanning, vulnerability assessment, and defensive security.
 
