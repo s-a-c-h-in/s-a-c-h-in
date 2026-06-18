@@ -2,7 +2,7 @@
 
 Web Developer · Security Tester · Kannada Tech Educator
 
-🌐 [CodeKannada.in](https://codekannada.in) — Free tech education in Kannada
+[CodeKannada.in](https://codekannada.in) — Free tech education in Kannada
 
 ---
 
